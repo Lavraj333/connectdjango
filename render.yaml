@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: glam-battle-backend
+    env: python
+    buildCommand: pip install -r requirements.txt && python manage.py migrate && python manage.py loaddata actresses/fixtures/actresses.json && python manage.py collectstatic --no-input
+    startCommand: gunicorn connectdjango.wsgi:application
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: glam-battle-db
+          property: connectionString
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DEBUG
+        value: 'False'
+      - key: TMDB_API_KEY
+        value: 'c12a41dc50ebb081649d16aadb4ff10f'
+
+databases:
+  - name: glam-battle-db
+    plan: free
