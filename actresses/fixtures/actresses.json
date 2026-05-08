@@ -1,1 +1,554 @@
-[{"model": "actresses.actress", "pk": 1, "fields": {"name": "Scarlett Johansson", "profile_path": "/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg"}}, {"model": "actresses.actress", "pk": 2, "fields": {"name": "Emma Watson", "profile_path": "/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg"}}, {"model": "actresses.actress", "pk": 3, "fields": {"name": "Margot Robbie", "profile_path": "/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"}}, {"model": "actresses.actress", "pk": 4, "fields": {"name": "Jennifer Lawrence", "profile_path": "/4rn6zSNjlpH2YtewlVz2YsKRKsZ.jpg"}}, {"model": "actresses.actress", "pk": 5, "fields": {"name": "Ana de Armas", "profile_path": "/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg"}}, {"model": "actresses.actress", "pk": 6, "fields": {"name": "Zendaya", "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"}}, {"model": "actresses.actress", "pk": 7, "fields": {"name": "Sydney Sweeney", "profile_path": "/tVuiJ5Joryw5EXKGbY6pMKCUdSt.jpg"}}, {"model": "actresses.actress", "pk": 8, "fields": {"name": "Alexandra Daddario", "profile_path": "/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg"}}, {"model": "actresses.actress", "pk": 9, "fields": {"name": "Elizabeth Olsen", "profile_path": "/wIU675y4dofIDVuhaNWPizJNtep.jpg"}}, {"model": "actresses.actress", "pk": 10, "fields": {"name": "Gal Gadot", "profile_path": "/g55dgcZQkLMolkKqgP7OD2yfGXu.jpg"}}, {"model": "actresses.actress", "pk": 11, "fields": {"name": "Megan Fox", "profile_path": "/9khvk5svs81TLqIGlI3ZJqYtqaY.jpg"}}, {"model": "actresses.actress", "pk": 12, "fields": {"name": "Angelina Jolie", "profile_path": "/nXA9vMvskmIDB5NqHCkTQPmemep.jpg"}}, {"model": "actresses.actress", "pk": 13, "fields": {"name": "Natalie Portman", "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"}}, {"model": "actresses.actress", "pk": 14, "fields": {"name": "Anne Hathaway", "profile_path": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"}}, {"model": "actresses.actress", "pk": 15, "fields": {"name": "Emma Stone", "profile_path": "/s7PVcnnA05JcRiMtplwgK49Z2UU.jpg"}}, {"model": "actresses.actress", "pk": 16, "fields": {"name": "Jessica Alba", "profile_path": "/jCImuXo4TqdWeIs4Hc2tO0U28LV.jpg"}}, {"model": "actresses.actress", "pk": 17, "fields": {"name": "Monica Bellucci", "profile_path": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"}}, {"model": "actresses.actress", "pk": 18, "fields": {"name": "Penelope Cruz", "profile_path": "/2Lbc8QXgHik1D1saPqQ5qEWwUEh.jpg"}}, {"model": "actresses.actress", "pk": 19, "fields": {"name": "Charlize Theron", "profile_path": "/ie1KbeYFG5E0GVr1QP7tDNuXvga.jpg"}}, {"model": "actresses.actress", "pk": 20, "fields": {"name": "Salma Hayek", "profile_path": "/3j8MpAjyopkAc8mbNiDeXyqBmcS.jpg"}}, {"model": "actresses.actress", "pk": 21, "fields": {"name": "Kate Beckinsale", "profile_path": "/nUZuC2chd5PVw2tLxePZ6uaLbhx.jpg"}}, {"model": "actresses.actress", "pk": 22, "fields": {"name": "Eva Mendes", "profile_path": "/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"}}, {"model": "actresses.actress", "pk": 23, "fields": {"name": "Mila Kunis", "profile_path": "/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg"}}, {"model": "actresses.actress", "pk": 24, "fields": {"name": "Dakota Johnson", "profile_path": "/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"}}, {"model": "actresses.actress", "pk": 25, "fields": {"name": "Jennifer Aniston", "profile_path": "/vq7KKJE4gsb8WQEUkvMB2zUcsOO.jpg"}}, {"model": "actresses.actress", "pk": 26, "fields": {"name": "Jessica Biel", "profile_path": "/3txkpzteYNW12vpREFpagSrWe6d.jpg"}}, {"model": "actresses.actress", "pk": 27, "fields": {"name": "Blake Lively", "profile_path": "/rkGVjd6wImtgjOCi0IpeffdEWtb.jpg"}}, {"model": "actresses.actress", "pk": 28, "fields": {"name": "Amber Heard", "profile_path": "/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"}}, {"model": "actresses.actress", "pk": 29, "fields": {"name": "Margaret Qualley", "profile_path": "/jStNyMj3acpLuH48awLVLqqlyaV.jpg"}}, {"model": "actresses.actress", "pk": 30, "fields": {"name": "Sydney Meyer", "profile_path": "/pJoldMyQnOi5YK4CyrXifR5YWRY.jpg"}}, {"model": "actresses.actress", "pk": 31, "fields": {"name": "Aishwarya Rai", "profile_path": "/tXlRA4gZgUiKx2P1odBpyXjnkbX.jpg"}}, {"model": "actresses.actress", "pk": 32, "fields": {"name": "Priyanka Chopra", "profile_path": "/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg"}}, {"model": "actresses.actress", "pk": 33, "fields": {"name": "Deepika Padukone", "profile_path": "/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"}}, {"model": "actresses.actress", "pk": 34, "fields": {"name": "Katrina Kaif", "profile_path": "/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"}}, {"model": "actresses.actress", "pk": 35, "fields": {"name": "Alia Bhatt", "profile_path": "/RBnTJPegPFLBS4VPsNLbf6iAoD.jpg"}}, {"model": "actresses.actress", "pk": 36, "fields": {"name": "Shraddha Kapoor", "profile_path": "/70y8OBg29SUUY659UfQ4FquCyOe.jpg"}}, {"model": "actresses.actress", "pk": 37, "fields": {"name": "Kriti Sanon", "profile_path": "/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"}}, {"model": "actresses.actress", "pk": 38, "fields": {"name": "Tamannaah Bhatia", "profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"}}, {"model": "actresses.actress", "pk": 39, "fields": {"name": "Rashmika Mandanna", "profile_path": "/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg"}}, {"model": "actresses.actress", "pk": 40, "fields": {"name": "Kiara Advani", "profile_path": "/zEhXyCvmttj9pQOXgNpO2deqtWD.jpg"}}, {"model": "actresses.actress", "pk": 41, "fields": {"name": "Disha Patani", "profile_path": "/oWfHKrvbk3Ak6UnrzDlAoZu7nlh.jpg"}}, {"model": "actresses.actress", "pk": 42, "fields": {"name": "Ananya Panday", "profile_path": "/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"}}, {"model": "actresses.actress", "pk": 43, "fields": {"name": "Janhvi Kapoor", "profile_path": "/gzTtKYASxhUUF5DqxqrWW3IT9GC.jpg"}}, {"model": "actresses.actress", "pk": 44, "fields": {"name": "Sara Ali Khan", "profile_path": "/nRtF9kNgIt9q52jy89cyZBimUPs.jpg"}}, {"model": "actresses.actress", "pk": 45, "fields": {"name": "Mrunal Thakur", "profile_path": "/rEUE20LCW46AQqExutWxwukFycI.jpg"}}, {"model": "actresses.actress", "pk": 46, "fields": {"name": "Pooja Hegde", "profile_path": "/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"}}, {"model": "actresses.actress", "pk": 47, "fields": {"name": "Nora Fatehi", "profile_path": "/jKvLkySOJFUUnUdE7Zo4oPb9ZzM.jpg"}}, {"model": "actresses.actress", "pk": 48, "fields": {"name": "Adriana Lima", "profile_path": "/b8LNqUPTTdt77XSO4qLT2a0NaQe.jpg"}}, {"model": "actresses.actress", "pk": 49, "fields": {"name": "Bella Hadid", "profile_path": "/2e8qNiLiLCH11JAgqNodZxMCKov.jpg"}}, {"model": "actresses.actress", "pk": 50, "fields": {"name": "Gigi Hadid", "profile_path": "/dQjCDraowhTSNLLzJxDJPS76CJx.jpg"}}, {"model": "actresses.actress", "pk": 51, "fields": {"name": "Irina Shayk", "profile_path": null}}, {"model": "actresses.actress", "pk": 52, "fields": {"name": "Emily Ratajkowski", "profile_path": "/1YngeK5Bbgw9bu6YG5ZgvCIo4ZX.jpg"}}, {"model": "actresses.actress", "pk": 53, "fields": {"name": "Kate Upton", "profile_path": "/g2jEEc3TbMo0W9t1DTQHn5qyY7X.jpg"}}, {"model": "actresses.actress", "pk": 54, "fields": {"name": "Selena Gomez", "profile_path": "/kEGPpTVNBFD25cgyEEsoOZSmaMv.jpg"}}, {"model": "actresses.actress", "pk": 55, "fields": {"name": "Ariana Grande", "profile_path": "/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"}}, {"model": "actresses.actress", "pk": 56, "fields": {"name": "Taylor Swift", "profile_path": "/vr4QrJ23Cm8T7Y5sBN3UnnWrZ0q.jpg"}}, {"model": "actresses.actress", "pk": 57, "fields": {"name": "Rihanna", "profile_path": "/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg"}}, {"model": "actresses.actress", "pk": 58, "fields": {"name": "Dua Lipa", "profile_path": "/82ZEdOoWZcRQbOawXbZ1EDTO85K.jpg"}}, {"model": "actresses.actress", "pk": 59, "fields": {"name": "Beyonce", "profile_path": "/2HbjNtiCtmbArEnELuDFU7knaVK.jpg"}}, {"model": "actresses.actress", "pk": 60, "fields": {"name": "Shakira", "profile_path": "/AcOA8MbRrDswt6w3TmCBYl7TNOu.jpg"}}, {"model": "actresses.actress", "pk": 61, "fields": {"name": "Katy Perry", "profile_path": "/9U2JJMSlM8mDNSmEWNPvHFcUatl.jpg"}}, {"model": "actresses.actress", "pk": 62, "fields": {"name": "Camila Cabello", "profile_path": "/A2ydvwkjE6d85kU9J2xFXpP2RQC.jpg"}}, {"model": "actresses.actress", "pk": 63, "fields": {"name": "Madison Beer", "profile_path": "/7AxvCq7JeFK9uJlC9ILfxaCMlhJ.jpg"}}, {"model": "actresses.actress", "pk": 64, "fields": {"name": "Galina Dubenenko", "profile_path": null}}, {"model": "actresses.actress", "pk": 65, "fields": {"name": "Barbara Palvin", "profile_path": "/eAyI3Rx923QEn4SVDDDxzo7tO98.jpg"}}, {"model": "actresses.actress", "pk": 66, "fields": {"name": "Lily Collins", "profile_path": "/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg"}}, {"model": "actresses.actress", "pk": 67, "fields": {"name": "Sophie Turner", "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"}}, {"model": "actresses.actress", "pk": 68, "fields": {"name": "Phoebe Tonkin", "profile_path": "/NgjSnxirsJNuFBjKR4apkKL3wC.jpg"}}, {"model": "actresses.actress", "pk": 69, "fields": {"name": "Lily James", "profile_path": "/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"}}]
+[
+  {
+    "model": "actresses.actress",
+    "pk": 1,
+    "fields": {
+      "name": "Scarlett Johansson",
+      "profile_path": "https://png.pngtree.com/png-clipart/20190516/original/pngtree-color-cartoon-hand-painted-skipping-rope-elements-png-image_3689829.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 2,
+    "fields": {
+      "name": "Emma Watson",
+      "profile_path": "https://product.hstatic.net/200000277379/product/man_hinh_led_ghep_0ce29c94af6c47b9bd7567dfd09d1da4_master.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 3,
+    "fields": {
+      "name": "Margot Robbie",
+      "profile_path": "https://i.pinimg.com/originals/1d/bf/43/1dbf433a30c630a3ea54d752761ef7aa.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 4,
+    "fields": {
+      "name": "Jennifer Lawrence",
+      "profile_path": "https://pic1.zhimg.com/v2-7991c18eecb053bd7dfdd43bb3755c5c_r.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 5,
+    "fields": {
+      "name": "Ana de Armas",
+      "profile_path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfiLAiBPz_WSFysTGMQXW5XnvEpBaH3469c2XaN8V5fv5G09yG6BATjxhOuaT_sUmUGsSGJFrHanlnbsN9fLWQ9EIsLe5P6b3Wzvsrycm8tUgK6rzSFO9luNH7PpZDC3b6S5HbnfufOrj_muP7dIaCyUU5VQKzW52G_kGr6URtrayO8_Xa-MObmDpx3oE/w1200-h630-p-k-no-nu/2024　納涼祭り　回覧(修正分)_202407311235_1.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 6,
+    "fields": {
+      "name": "Zendaya",
+      "profile_path": "https://www.ura-akiba.jp/dlsite/RJ335570/003.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 7,
+    "fields": {
+      "name": "Sydney Sweeney",
+      "profile_path": "https://cbu01.alicdn.com/img/ibank/O1CN016BoJac1KT9hrD0yon_!!1002771164-0-cib.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 8,
+    "fields": {
+      "name": "Alexandra Daddario",
+      "profile_path": "https://c-ssl.dtstatic.com/uploads/blog/202503/20/d3SA77E5fqoMaoy.thumb.400_0.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 9,
+    "fields": {
+      "name": "Elizabeth Olsen",
+      "profile_path": "https://ireba-inaba.jp/wp-content/uploads/2025/09/5ad0047eeddeb349b268c2049a203f26.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 10,
+    "fields": {
+      "name": "Gal Gadot",
+      "profile_path": "https://i.pinimg.com/736x/d8/ac/91/d8ac91d4029a440a5776c6c526bbfe3f.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 11,
+    "fields": {
+      "name": "Megan Fox",
+      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Megan_Fox_2014.jpg/250px-Megan_Fox_2014.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 12,
+    "fields": {
+      "name": "Angelina Jolie",
+      "profile_path": "http://www.gbifamilyblessing.org/wp-content/uploads/2023/05/Perjamuan-kudus.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 13,
+    "fields": {
+      "name": "Natalie Portman",
+      "profile_path": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2023/11/28/Project-Photo-7-RMZ-Ecoworld-Bangalore-5269899_721_1600_310_462.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 14,
+    "fields": {
+      "name": "Anne Hathaway",
+      "profile_path": "https://rimage.gnst.jp/rest/img/mymkn7rf0000/s_0n76.jpg?t=1763450108"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 15,
+    "fields": {
+      "name": "Emma Stone",
+      "profile_path": "https://i.ytimg.com/vi/ERvAZA6A-sU/maxresdefault.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 16,
+    "fields": {
+      "name": "Jessica Alba",
+      "profile_path": "https://www.bosch-presse.de/pressportal/de/media/dam_images/pi12032/20251013mst_0199_img_h900.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 17,
+    "fields": {
+      "name": "Monica Bellucci",
+      "profile_path": "http://www.cctegxian.com/UploadFile/image/20230320/20230320112060696069.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 18,
+    "fields": {
+      "name": "Penelope Cruz",
+      "profile_path": "http://www.tcm360.com/uppic/image/20180403/201804031000135580.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 19,
+    "fields": {
+      "name": "Charlize Theron",
+      "profile_path": "https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/7f/d1/t-re-7009-the-story-of-elijah-powerpoint_ver_2.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 20,
+    "fields": {
+      "name": "Salma Hayek",
+      "profile_path": "https://www.davidbeaumontart.com.au/wp-content/uploads/2021/09/sunday-afternoon-5pm-rip-series-oil-on-linen-i25x247cm.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 21,
+    "fields": {
+      "name": "Kate Beckinsale",
+      "profile_path": "http://www.larevista.ec/sites/default/files/imagecache/imagengaleriagrande/KateMiddleton2.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 22,
+    "fields": {
+      "name": "Eva Mendes",
+      "profile_path": "https://media2.ola88.com/images/1091/12023/12023010316051526.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 23,
+    "fields": {
+      "name": "Mila Kunis",
+      "profile_path": "https://i.ytimg.com/vi/eN6vyH_iImE/maxresdefault.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 24,
+    "fields": {
+      "name": "Dakota Johnson",
+      "profile_path": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0504/users/71d32ed00bb9af656764c3ba694afd659767d7e5/i-img960x960-1713784556a1urij137417.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 25,
+    "fields": {
+      "name": "Jennifer Aniston",
+      "profile_path": "https://djgyanchand.in/upload_file/10/103/Lahariya Luta Ae Raja - Indu Sonali Super Hit Bhojpuri Dj Dance Mp3 Song - Dj Gyanchand.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 26,
+    "fields": {
+      "name": "Jessica Biel",
+      "profile_path": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122200992992066711"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 27,
+    "fields": {
+      "name": "Blake Lively",
+      "profile_path": "https://www.oldfriend.url.tw/images/SIwave/21_Target Impedance/27.gif"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 28,
+    "fields": {
+      "name": "Amber Heard",
+      "profile_path": "https://images.prestigeonline.com/wp-content/uploads/sites/9/2024/04/23133228/IMG_3190-copy.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 29,
+    "fields": {
+      "name": "Margaret Qualley",
+      "profile_path": "https://res1-cn.c.hihonor.com/data/attachment/forum/202410/09/3ed90e1adf6af28cef7e452454a4a66f2f550c9a6471920af529dbf5c53b3e76.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 30,
+    "fields": {
+      "name": "Sydney Meyer",
+      "profile_path": "https://img.aucfree.com/p691797073.1.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 31,
+    "fields": {
+      "name": "Aishwarya Rai",
+      "profile_path": "https://www.kensetu-bukka.or.jp/wp-content/themes/custom/img/trendtopics/article/202405/article202405-4-10.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 32,
+    "fields": {
+      "name": "Priyanka Chopra",
+      "profile_path": "https://images.stockcake.com/public/8/4/a/84a4058c-0297-470c-baad-f0aee4c0ed83_large/puppy-amid-flowers-stockcake.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 33,
+    "fields": {
+      "name": "Deepika Padukone",
+      "profile_path": "https://static.toiimg.com/photo/105652038.cms"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 34,
+    "fields": {
+      "name": "Katrina Kaif",
+      "profile_path": "https://savingtalents.com/wp-content/uploads/slow-cooker-caramel-sauce-1024x828.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 35,
+    "fields": {
+      "name": "Alia Bhatt",
+      "profile_path": "https://one-uni-static.oneone.com.tw/upload/images/2024-03-04/ae566253288191ce5d879e51dae1d8c365e56f2d8f307.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 36,
+    "fields": {
+      "name": "Shraddha Kapoor",
+      "profile_path": "https://c-ssl.dtstatic.com/uploads/blog/202111/21/20211121152548_c8f4a.thumb.400_0.jpeg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 37,
+    "fields": {
+      "name": "Kriti Sanon",
+      "profile_path": "https://bikkura-ai.com/wp-content/uploads/2024/11/00063-1298643409.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 38,
+    "fields": {
+      "name": "Tamannaah Bhatia",
+      "profile_path": "https://blogthumb.pstatic.net/MjAyNDAyMjFfMTY1/MDAxNzA4NTA5MDY1NzU4.AWsQw-9egxTmS-LDEfMQTlHpBwOuy8rLZjZvELNf5Acg.hyhhb-YfCtgVeH56LaPU0v2Yy1K1Trf2AmFKDh9QWzcg.JPEG/%A4%B7.jpg?type=w2"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 39,
+    "fields": {
+      "name": "Rashmika Mandanna",
+      "profile_path": "https://www.socialnews.xyz/wp-content/uploads/2021/09/19/Actress-Rashmika-Mandanna-Glam-Stills-from-SIIMA-Awards-2021-Day-1-Red-Carpet-.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 40,
+    "fields": {
+      "name": "Kiara Advani",
+      "profile_path": "https://asiasyouji.com/wp-content/uploads/2020/06/IMG_9958.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 41,
+    "fields": {
+      "name": "Disha Patani",
+      "profile_path": "https://m.media-amazon.com/images/I/614AjhOS+dL._SL1500_.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 42,
+    "fields": {
+      "name": "Ananya Panday",
+      "profile_path": "https://www.liveagent.com/app/uploads/2022/06/firmao-zapier.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 43,
+    "fields": {
+      "name": "Janhvi Kapoor",
+      "profile_path": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323000/323052.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 44,
+    "fields": {
+      "name": "Sara Ali Khan",
+      "profile_path": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-ll372j177f4w50"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 45,
+    "fields": {
+      "name": "Mrunal Thakur",
+      "profile_path": "https://nijifan.net/wp-content/uploads/2025/12/rjzsed8r.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 46,
+    "fields": {
+      "name": "Pooja Hegde",
+      "profile_path": "https://illust-closet.com/wp-content/uploads/2025/09/tsukinkotsuhi-shinseisho1.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 47,
+    "fields": {
+      "name": "Nora Fatehi",
+      "profile_path": "https://english.cdn.zeenews.com/sites/default/files/2022/11/07/1113550-nora-fatehi-red-gown-3.gif"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 48,
+    "fields": {
+      "name": "Adriana Lima",
+      "profile_path": "https://quizizz-static.s3.amazonaws.com/_media/worksheets/5e558090b7ad6c001dedab11-situational-irony"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 49,
+    "fields": {
+      "name": "Bella Hadid",
+      "profile_path": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Q2ia6.img?w=1920&h=1080&m=4&q=98"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 50,
+    "fields": {
+      "name": "Gigi Hadid",
+      "profile_path": "http://image1.slideserve.com/2088279/elements-of-the-ism-code-n.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 51,
+    "fields": {
+      "name": "Irina Shayk",
+      "profile_path": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0308/users/f4775bafaad40f52b547d2e6b4a8123da6b7ea9c/i-img640x480-1661048256buee0s14.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 52,
+    "fields": {
+      "name": "Emily Ratajkowski",
+      "profile_path": "https://carenote.jp/wp-content/uploads/2022/06/kakutankyuin-ninteisyo-kouhusinsei-343x500.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 53,
+    "fields": {
+      "name": "Kate Upton",
+      "profile_path": "http://www.larevista.ec/sites/default/files/imagecache/imagengaleriagrande/KateMiddleton2.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 54,
+    "fields": {
+      "name": "Selena Gomez",
+      "profile_path": "https://hadaseikou.co.jp/wp-content/uploads/2025/06/3.png"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 55,
+    "fields": {
+      "name": "Ariana Grande",
+      "profile_path": "https://imgs.699pic.com/images/600/380/211.jpg!detail.v1"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 56,
+    "fields": {
+      "name": "Taylor Swift",
+      "profile_path": "https://i.ytimg.com/vi/FI4i7FtbRp8/maxresdefault.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 57,
+    "fields": {
+      "name": "Rihanna",
+      "profile_path": "https://static.independent.co.uk/2025/02/22/16/36/GettyImages-2170616237.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 58,
+    "fields": {
+      "name": "Dua Lipa",
+      "profile_path": "https://wy-static.wenxiaobai.com/chat-rag-image/18243188662432436649"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 59,
+    "fields": {
+      "name": "Beyonce",
+      "profile_path": "https://infografolio.com/cdn/shop/products/consulting-slides-slides-consulting-slide-infographic-template-s02102215-powerpoint-template-keynote-template-google-slides-template-infographic-template-34381492125874.jpg?v=1665647074&width=800"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 60,
+    "fields": {
+      "name": "Shakira",
+      "profile_path": "https://pic.nximg.cn/file/20220311/4081463_142951242103_2.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 61,
+    "fields": {
+      "name": "Katy Perry",
+      "profile_path": "https://i.pinimg.com/736x/db/83/d9/db83d90372e665332d2e2f6421eddb4b.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 62,
+    "fields": {
+      "name": "Camila Cabello",
+      "profile_path": "https://i.ytimg.com/vi/CoSUJfO6cps/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDwgZSglMA8=&rs=AOn4CLD_1Q_IpD_jH84t7NILnxHDroRh2Q"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 63,
+    "fields": {
+      "name": "Madison Beer",
+      "profile_path": "https://chuxiong.yunnan.cn/pic/003/075/977/00307597757_0a51df1d.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 64,
+    "fields": {
+      "name": "Galina Dubenenko",
+      "profile_path": "https://m.media-amazon.com/images/I/51Oi7KQB2dL.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 65,
+    "fields": {
+      "name": "Barbara Palvin",
+      "profile_path": "https://wakaru-civilengineering.com/wp-content/uploads/2025/03/1e7ae730e934f0228e839bd7d37c61ca.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 66,
+    "fields": {
+      "name": "Lily Collins",
+      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lilium_longiflorum_%28Easter_Lily%29.JPG"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 67,
+    "fields": {
+      "name": "Sophie Turner",
+      "profile_path": "https://vpic-cover.puui.qpic.cn/r3098wysxao/r3098wysxao_1753633822_vt.jpg/720"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 68,
+    "fields": {
+      "name": "Phoebe Tonkin",
+      "profile_path": "https://coin-carwash.club/wp-content/uploads/2018/03/2e37cf86743ee8dc866312a6140b6e4a-1000x540.jpg"
+    }
+  },
+  {
+    "model": "actresses.actress",
+    "pk": 69,
+    "fields": {
+      "name": "Lily James",
+      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lilium_longiflorum_%28Easter_Lily%29.JPG"
+    }
+  }
+]
