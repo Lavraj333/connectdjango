@@ -4,7 +4,7 @@
     "pk": 1,
     "fields": {
       "name": "Scarlett Johansson",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/960px-Scarlett_Johansson-8588.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/6bBCPmc55gzP7TR9Th4WbykrYd0.jpg"
     }
   },
   {
@@ -12,7 +12,7 @@
     "pk": 2,
     "fields": {
       "name": "Emma Watson",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Emma_Watson_2013.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg"
     }
   },
   {
@@ -20,7 +20,7 @@
     "pk": 3,
     "fields": {
       "name": "Margot Robbie",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/2/24/Margot_Robbie_at_29th_Critics%27_Choice_Awards.jpg_%28brightened%29.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
     }
   },
   {
@@ -28,7 +28,7 @@
     "pk": 4,
     "fields": {
       "name": "Jennifer Lawrence",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jennifer_Lawrence_in_2018.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
     }
   },
   {
@@ -36,7 +36,7 @@
     "pk": 5,
     "fields": {
       "name": "Ana de Armas",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ana_de_Armas_%2854462619561%29_%28cropped_3%29.jpg/960px-Ana_de_Armas_%2854462619561%29_%28cropped_3%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/3vxvsmYLTf4jnr163SUlBIw51ee.jpg"
     }
   },
   {
@@ -44,7 +44,7 @@
     "pk": 6,
     "fields": {
       "name": "Zendaya",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/960px-Zendaya_-_2019_by_Glenn_Francis.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
     }
   },
   {
@@ -52,7 +52,7 @@
     "pk": 7,
     "fields": {
       "name": "Sydney Sweeney",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg/960px-Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/lkEC9xM133h2f8wmp8CpyLr3JNq.jpg"
     }
   },
   {
@@ -60,7 +60,7 @@
     "pk": 8,
     "fields": {
       "name": "Alexandra Daddario",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alexandra_Daddario_Eva_Rinaldi_Photography_%281%29_%2834571221352%29.jpg/960px-Alexandra_Daddario_Eva_Rinaldi_Photography_%281%29_%2834571221352%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/mP3N1LTIaIG5Q0BHyt1XxjtIyYi.jpg"
     }
   },
   {
@@ -68,7 +68,7 @@
     "pk": 9,
     "fields": {
       "name": "Elizabeth Olsen",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ElizabethOlsen-TIFF2025-02.png/960px-ElizabethOlsen-TIFF2025-02.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/dlS1CKO8Dh2lORhE73WosZ4bRt2.jpg"
     }
   },
   {
@@ -76,7 +76,7 @@
     "pk": 10,
     "fields": {
       "name": "Gal Gadot",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gal_Gadot_by_Gage_Skidmore_3.jpg/960px-Gal_Gadot_by_Gage_Skidmore_3.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
     }
   },
   {
@@ -84,7 +84,7 @@
     "pk": 11,
     "fields": {
       "name": "Megan Fox",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Megan_Fox_-_Jennifer%27s_Body.jpg/960px-Megan_Fox_-_Jennifer%27s_Body.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/9khvk5svs81TLqIGlI3ZJqYtqaY.jpg"
     }
   },
   {
@@ -92,7 +92,7 @@
     "pk": 12,
     "fields": {
       "name": "Angelina Jolie",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Angelina_Jolie-643531_%28cropped%29.jpg/960px-Angelina_Jolie-643531_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/nXA9vMvskmIDB5NqHCkTQPmemep.jpg"
     }
   },
   {
@@ -100,7 +100,7 @@
     "pk": 13,
     "fields": {
       "name": "Natalie Portman",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NataliePortman.jpg/960px-NataliePortman.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
     }
   },
   {
@@ -108,7 +108,7 @@
     "pk": 14,
     "fields": {
       "name": "Anne Hathaway",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg/960px-Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
     }
   },
   {
@@ -116,7 +116,7 @@
     "pk": 15,
     "fields": {
       "name": "Emma Stone",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg/960px-Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
     }
   },
   {
@@ -124,7 +124,7 @@
     "pk": 16,
     "fields": {
       "name": "Jessica Alba",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg/960px-Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/jCImuXo4TqdWeIs4Hc2tO0U28LV.jpg"
     }
   },
   {
@@ -132,7 +132,7 @@
     "pk": 17,
     "fields": {
       "name": "Monica Bellucci",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Monica_Bellucci_San_Sebasti%C3%A1n.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
     }
   },
   {
@@ -140,7 +140,7 @@
     "pk": 18,
     "fields": {
       "name": "Penelope Cruz",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Goyas_2024_-_Pen%C3%A9lope_Cruz-2_%28cropped%29.jpg/960px-Goyas_2024_-_Pen%C3%A9lope_Cruz-2_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
     }
   },
   {
@@ -148,7 +148,7 @@
     "pk": 19,
     "fields": {
       "name": "Charlize Theron",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlize-theron-IMG_6045.jpg/960px-Charlize-theron-IMG_6045.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
     }
   },
   {
@@ -156,7 +156,7 @@
     "pk": 20,
     "fields": {
       "name": "Salma Hayek",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg/960px-MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
     }
   },
   {
@@ -164,7 +164,7 @@
     "pk": 21,
     "fields": {
       "name": "Kate Beckinsale",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kate_Beckinsale_%2829907748884%29_%28cropped2%29.jpg/960px-Kate_Beckinsale_%2829907748884%29_%28cropped2%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/nUZuC2chd5PVw2tLxePZ6uaLbhx.jpg"
     }
   },
   {
@@ -172,7 +172,7 @@
     "pk": 22,
     "fields": {
       "name": "Eva Mendes",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/1/11/Eva_Mendes_2009.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
     }
   },
   {
@@ -180,7 +180,7 @@
     "pk": 23,
     "fields": {
       "name": "Mila Kunis",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mila_Kunis_TIFF_2025_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg"
     }
   },
   {
@@ -188,7 +188,7 @@
     "pk": 24,
     "fields": {
       "name": "Dakota Johnson",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dakota_Johnson_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/960px-Dakota_Johnson_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
     }
   },
   {
@@ -196,7 +196,7 @@
     "pk": 25,
     "fields": {
       "name": "Jennifer Aniston",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/1/16/JenniferAnistonHWoFFeb2012.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/7sQcYpMkmZMc2pXnkmAuYzNVhXB.jpg"
     }
   },
   {
@@ -204,7 +204,7 @@
     "pk": 26,
     "fields": {
       "name": "Jessica Biel",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jessica_Biel_2013.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/31A4NhIUTz1vgHgpjYj16eYVQR6.jpg"
     }
   },
   {
@@ -212,7 +212,7 @@
     "pk": 27,
     "fields": {
       "name": "Blake Lively",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/b/be/Blake_Lively_2020.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/rkGVjd6wImtgjOCi0IpeffdEWtb.jpg"
     }
   },
   {
@@ -220,7 +220,7 @@
     "pk": 28,
     "fields": {
       "name": "Amber Heard",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Amber_Heard_by_Gage_Skidmore.jpg/960px-Amber_Heard_by_Gage_Skidmore.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"
     }
   },
   {
@@ -228,7 +228,7 @@
     "pk": 29,
     "fields": {
       "name": "Margaret Qualley",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Margaret_Qualley_at_the_2025_Cannes_Film_Festival_01_%28cropped%29%282%29.jpg/960px-Margaret_Qualley_at_the_2025_Cannes_Film_Festival_01_%28cropped%29%282%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
     }
   },
   {
@@ -244,7 +244,7 @@
     "pk": 31,
     "fields": {
       "name": "Aishwarya Rai",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Aishwarya_Rai_Cannes_2017.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/tXlRA4gZgUiKx2P1odBpyXjnkbX.jpg"
     }
   },
   {
@@ -252,7 +252,7 @@
     "pk": 32,
     "fields": {
       "name": "Priyanka Chopra",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/4/45/Priyanka_Chopra_at_Bulgary_launch%2C_2024_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg"
     }
   },
   {
@@ -260,7 +260,7 @@
     "pk": 33,
     "fields": {
       "name": "Deepika Padukone",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Deepika_Padukone_2025_%281%29.png/960px-Deepika_Padukone_2025_%281%29.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
     }
   },
   {
@@ -268,7 +268,7 @@
     "pk": 34,
     "fields": {
       "name": "Katrina Kaif",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Katrina_Kaif_at_the_Bharat_audio_launch.jpg/960px-Katrina_Kaif_at_the_Bharat_audio_launch.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
     }
   },
   {
@@ -276,7 +276,7 @@
     "pk": 35,
     "fields": {
       "name": "Alia Bhatt",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alia_Bhatt_at_Berlinale_2022_Ausschnitt.jpg/960px-Alia_Bhatt_at_Berlinale_2022_Ausschnitt.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/RBnTJPegPFLBS4VPsNLbf6iAoD.jpg"
     }
   },
   {
@@ -284,7 +284,7 @@
     "pk": 36,
     "fields": {
       "name": "Shraddha Kapoor",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Shraddha_Kapoor_promoting_Street_Dancer_3D.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/70y8OBg29SUUY659UfQ4FquCyOe.jpg"
     }
   },
   {
@@ -292,7 +292,7 @@
     "pk": 37,
     "fields": {
       "name": "Kriti Sanon",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kriti_Sanon_at_Adipurush_pre_release_event_%282%29_%28cropped%29.jpg/960px-Kriti_Sanon_at_Adipurush_pre_release_event_%282%29_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
     }
   },
   {
@@ -300,7 +300,7 @@
     "pk": 38,
     "fields": {
       "name": "Tamannaah Bhatia",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tamannaah_Bhatia_at_a_song_launch_from_the_film_Vedaa_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
     }
   },
   {
@@ -308,7 +308,7 @@
     "pk": 39,
     "fields": {
       "name": "Rashmika Mandanna",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Rashmika-Mandanna_at_the_music_launch_of_Chhaava_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg"
     }
   },
   {
@@ -316,7 +316,7 @@
     "pk": 40,
     "fields": {
       "name": "Kiara Advani",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg/960px-Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/zEhXyCvmttj9pQOXgNpO2deqtWD.jpg"
     }
   },
   {
@@ -324,7 +324,7 @@
     "pk": 41,
     "fields": {
       "name": "Disha Patani",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Disha_Patani_and_others_grace_the_premiere_of_Gustaakh_Ishq_02.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/oWfHKrvbk3Ak6UnrzDlAoZu7nlh.jpg"
     }
   },
   {
@@ -332,7 +332,7 @@
     "pk": 42,
     "fields": {
       "name": "Ananya Panday",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ananya_Panday_grace_the_premiere_of_Merry_Christmas_%28cropped%29.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
     }
   },
   {
@@ -340,7 +340,7 @@
     "pk": 43,
     "fields": {
       "name": "Janhvi Kapoor",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2025_Janhvi_Kapoor_%28cropped%29.jpg/960px-2025_Janhvi_Kapoor_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/gzTtKYASxhUUF5DqxqrWW3IT9GC.jpg"
     }
   },
   {
@@ -348,7 +348,7 @@
     "pk": 44,
     "fields": {
       "name": "Sara Ali Khan",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sara_Ali_Khan_snapped_promoting_Zara_Hatke_Zara_Bach_Ke_on_the_sets_of_The_Kapil_Sharma_Show_%288%29_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/nRtF9kNgIt9q52jy89cyZBimUPs.jpg"
     }
   },
   {
@@ -356,7 +356,7 @@
     "pk": 45,
     "fields": {
       "name": "Mrunal Thakur",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mrunal_Thakur_in_Andheri_1_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/rEUE20LCW46AQqExutWxwukFycI.jpg"
     }
   },
   {
@@ -364,7 +364,7 @@
     "pk": 46,
     "fields": {
       "name": "Pooja Hegde",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pooja_Hegde_at_Beast_Telugu_press_meet_%281%29.jpg/960px-Pooja_Hegde_at_Beast_Telugu_press_meet_%281%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
     }
   },
   {
@@ -372,7 +372,7 @@
     "pk": 47,
     "fields": {
       "name": "Nora Fatehi",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Nora-Fatehi-snapped-in-Bandra-2_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/jKvLkySOJFUUnUdE7Zo4oPb9ZzM.jpg"
     }
   },
   {
@@ -380,7 +380,7 @@
     "pk": 48,
     "fields": {
       "name": "Adriana Lima",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adriana_Lima_at_80th_Venice_International_Film_Festival.jpg/960px-Adriana_Lima_at_80th_Venice_International_Film_Festival.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/b8LNqUPTTdt77XSO4qLT2a0NaQe.jpg"
     }
   },
   {
@@ -388,7 +388,7 @@
     "pk": 49,
     "fields": {
       "name": "Bella Hadid",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bella_Hadid_Cannes_2018_%28cropped%29_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/2e8qNiLiLCH11JAgqNodZxMCKov.jpg"
     }
   },
   {
@@ -396,7 +396,7 @@
     "pk": 50,
     "fields": {
       "name": "Gigi Hadid",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Marina_Ruy_Barbosa_com_Gigi_Hadid_em_Paris_%28Gigi_Hadid%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/dQjCDraowhTSNLLzJxDJPS76CJx.jpg"
     }
   },
   {
@@ -412,7 +412,7 @@
     "pk": 52,
     "fields": {
       "name": "Emily Ratajkowski",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/9/97/Emily_Ratajkowski_at_Emmy_Awards_2016.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/1YngeK5Bbgw9bu6YG5ZgvCIo4ZX.jpg"
     }
   },
   {
@@ -420,7 +420,7 @@
     "pk": 53,
     "fields": {
       "name": "Kate Upton",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Kate_Upton_in_2021.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/g2jEEc3TbMo0W9t1DTQHn5qyY7X.jpg"
     }
   },
   {
@@ -428,7 +428,7 @@
     "pk": 54,
     "fields": {
       "name": "Selena Gomez",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg/960px-Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/wZ1AhrVZIwj09nMEyjFRGNtvr1c.jpg"
     }
   },
   {
@@ -436,7 +436,7 @@
     "pk": 55,
     "fields": {
       "name": "Ariana Grande",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
     }
   },
   {
@@ -444,7 +444,7 @@
     "pk": 56,
     "fields": {
       "name": "Taylor Swift",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/960px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/rWGEYsTc1zmtduphoWkm7UTV3eG.jpg"
     }
   },
   {
@@ -452,7 +452,7 @@
     "pk": 57,
     "fields": {
       "name": "Rihanna",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png"
+      "profile_path": "https://image.tmdb.org/t/p/h632/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg"
     }
   },
   {
@@ -460,7 +460,7 @@
     "pk": 58,
     "fields": {
       "name": "Dua Lipa",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dua_Lipa-69798_%28cropped%29.jpg/960px-Dua_Lipa-69798_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/aCZmliGT5oDGiF8aKvxFbct5JQm.jpg"
     }
   },
   {
@@ -468,7 +468,7 @@
     "pk": 59,
     "fields": {
       "name": "Beyonce",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/2HbjNtiCtmbArEnELuDFU7knaVK.jpg"
     }
   },
   {
@@ -476,7 +476,7 @@
     "pk": 60,
     "fields": {
       "name": "Shakira",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/960px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/AcOA8MbRrDswt6w3TmCBYl7TNOu.jpg"
     }
   },
   {
@@ -484,7 +484,7 @@
     "pk": 61,
     "fields": {
       "name": "Katy Perry",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg/960px-KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/9OOOpZpIi4VSHYBed7HP6axBir6.jpg"
     }
   },
   {
@@ -492,7 +492,7 @@
     "pk": 62,
     "fields": {
       "name": "Camila Cabello",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Camila_Cabello_Sundance_2024_Cropped.jpg/960px-Camila_Cabello_Sundance_2024_Cropped.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/oXScbfmhbNk3Qf8cqpHjQjdMAhe.jpg"
     }
   },
   {
@@ -500,7 +500,7 @@
     "pk": 63,
     "fields": {
       "name": "Madison Beer",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Madison_Beer_%40_Greek_Theatre_L.A._06_13_2024_%2853839434064%29_%28cropped_3x4%29.jpg/960px-Madison_Beer_%40_Greek_Theatre_L.A._06_13_2024_%2853839434064%29_%28cropped_3x4%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/7AxvCq7JeFK9uJlC9ILfxaCMlhJ.jpg"
     }
   },
   {
@@ -516,7 +516,7 @@
     "pk": 65,
     "fields": {
       "name": "Barbara Palvin",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MKr382323_Barbara_Palvin_%28Cannes_2025%29.jpg/960px-MKr382323_Barbara_Palvin_%28Cannes_2025%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/eAyI3Rx923QEn4SVDDDxzo7tO98.jpg"
     }
   },
   {
@@ -524,7 +524,7 @@
     "pk": 66,
     "fields": {
       "name": "Lily Collins",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lily_Collins_May_2019.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg"
     }
   },
   {
@@ -532,7 +532,7 @@
     "pk": 67,
     "fields": {
       "name": "Sophie Turner",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sophie_Turner_at_SXSW_London_June_2025_%28cropped%29.jpg/960px-Sophie_Turner_at_SXSW_London_June_2025_%28cropped%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
     }
   },
   {
@@ -540,7 +540,7 @@
     "pk": 68,
     "fields": {
       "name": "Phoebe Tonkin",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Phoebe_Tonkin_at_PaleyFest_2014.jpg/960px-Phoebe_Tonkin_at_PaleyFest_2014.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/NgjSnxirsJNuFBjKR4apkKL3wC.jpg"
     }
   },
   {
@@ -548,7 +548,7 @@
     "pk": 69,
     "fields": {
       "name": "Lily James",
-      "profile_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lilly_James_%2835744205321%29.jpg/960px-Lilly_James_%2835744205321%29.jpg"
+      "profile_path": "https://image.tmdb.org/t/p/h632/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
     }
   }
 ]
