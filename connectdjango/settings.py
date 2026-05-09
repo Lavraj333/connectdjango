@@ -87,4 +87,7 @@ CORS_ALLOW_ALL_ORIGINS = True  # tighten to your Netlify URL after testing
 
 TMDB_API_KEY = os.environ.get('TMDB_API_KEY', 'c12a41dc50ebb081649d16aadb4ff10f')
 
+GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY', 'AIzaSyD14r8oE0fL3IRYOPYFblIBqVs5L_pSRew')
+GOOGLE_CSE_ID = os.environ.get('GOOGLE_CSE_ID', '40e6a8d05121d4266')
+
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

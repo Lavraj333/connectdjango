@@ -1,9 +1,22 @@
-node_modules/ 
-image_results.json 
-dump.py 
-fetchImages.js 
-package.json 
-package-lock.json 
-db.sqlite3 
-__pycache__/ 
-staticfiles/ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.env
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Node (in case it comes back)
+node_modules/
+package.json
+package-lock.json
+image_results.json
+dump.py
+fetchImages.js
+
+# OS
+.DS_Store
+Thumbs.db
